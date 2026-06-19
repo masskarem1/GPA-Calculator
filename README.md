@@ -27,7 +27,9 @@ Add Your Courses: Click "Add Course" for each subject you are taking this semest
 
 Enter Grades: Type in your Credits (GPHRS) and your expected Percentage/Grade.
 
-(Optional) Enter Cumulative Data: Add your previous GPA and Credits to see your new overall Cumulative GPA.Watch your results update in real-time in the blue panel!
+(Optional) Enter Cumulative Data: Add your previous GPA and Credits to see your new overall Cumulative GPA.
+
+Watch your results update in real-time in the blue panel!
 
 ⚙️ Technical Details & ArchitectureThis application is built to be lightweight, fast, and accessible:Core Logic: Vanilla JavaScript (ES6+). 
 No heavy frameworks like React or Angular, meaning no build step is required.Styling: Tailwind CSS (via CDN) for modern, responsive UI design.Icons: Inline SVG icons (Lucide-inspired) to ensure the app works beautifully even if the user drops offline.Storage: HTML5 localStorage API for state persistence.📐 Official Grading Scale ReferenceThe calculator utilizes the following exact point scale extracted from official university transcripts:
